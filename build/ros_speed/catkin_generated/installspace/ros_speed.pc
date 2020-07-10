@@ -1,0 +1,8 @@
+prefix=/home/pc/catkin_ws/install
+
+Name: ros_speed
+Description: Description of ros_speed
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

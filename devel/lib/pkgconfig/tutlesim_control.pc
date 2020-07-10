@@ -1,0 +1,8 @@
+prefix=/home/pc/catkin_ws/devel
+
+Name: tutlesim_control
+Description: Description of tutlesim_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs geometry_msgs message_runtime

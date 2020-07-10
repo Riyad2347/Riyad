@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<launch>
+
+      <node name="kunsan" pkg="ros_start" type="talker.py"  output="screen">
+      </node>
+
+      <node name="green" pkg="ros_start" type="rplidar_listener1.py"  output="screen">
+      </node>
+
+</launch>
+
